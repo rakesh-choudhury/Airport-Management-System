@@ -1,5 +1,5 @@
 # Airport-Management-System
-[!tableu_visual](tableu_visualisation.gif)
+[](tableu_visualisation.gif)
 ## Database Purpose:
 * Airline reservation system is one of the most used database systems in the world. It is an example of Transaction processing systems. Transaction processing systems are systems with large databases and hundreds of concurrent users executing database transactions. These systems require high availability and fast response time for hundreds of concurrent users.</br>
 * We define the concept of a transaction, which is used to represent a logical unit of database processing, that must be completed in its entirety to ensure correctness. A transaction is typically implemented by a computer program, which includes database commands such as retrievals, insertions, deletions, and updates.
