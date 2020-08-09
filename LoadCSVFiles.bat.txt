@@ -1,0 +1,2 @@
+sqlcmd -S is-swang01.ischool.uw.edu -U INFO6210 -P NEUHusky! -d RAICHURKAR_ASHUTOSH_TEST -i "F:\DMDD\AMS project\Batch load\LoadCSVFiles.sql" -o "F:\DMDD\AMS project\Batch load\OutputLog.txt"
+ 
